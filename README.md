@@ -243,6 +243,15 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 
 </details>
 
+### Slayer Addons
+
+- Progress tracking for Slayer quests.
+- Information display during Slayer fights.
+- Personalized Slayer experiences.
+- User-friendly interface for Slayer task tracking.
+- Simplification of various Hypixel SkyBlock features.
+- Information on Slayer bosses.
+
 And more to come!
 <details>
   <summary>Commands</summary>
