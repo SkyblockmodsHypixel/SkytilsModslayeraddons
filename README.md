@@ -253,6 +253,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - User-friendly interface for Slayer task tracking.
 - Simplification of various Hypixel SkyBlock features.
 - Information on Slayer bosses.
+- type /stsa to enjoy!
   
 </details>
 And more to come!
