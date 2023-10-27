@@ -242,6 +242,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - Auto Copy Rare Drops
 
 </details>
+<details>
 
 ### Slayer Addons
 
@@ -251,7 +252,8 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 - User-friendly interface for Slayer task tracking.
 - Simplification of various Hypixel SkyBlock features.
 - Information on Slayer bosses.
-
+  
+</details>
 And more to come!
 <details>
   <summary>Commands</summary>
