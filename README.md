@@ -243,7 +243,7 @@ If you have a GitHub account, <b>PLEASE CONSIDER STARRING</b> and forking the re
 
 </details>
 <details>
-  <summary></summary>SlayerAddons</summary>
+  <summary>SlayerAddons</summary>
   
 ### Slayer Addons
 
